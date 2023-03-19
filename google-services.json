@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488939433774",
+    "project_id": "virgo-laminates",
+    "storage_bucket": "virgo-laminates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488939433774:android:1d573c71ca19264d19d4bf",
+        "android_client_info": {
+          "package_name": "com.mobiquest.virgolaminates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488939433774-0k1shl8rmi2d234jldpj4esm3ni5fs6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfiKOOOl-3Sr_WzDE0u_1p9Crya4A0bUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488939433774-0k1shl8rmi2d234jldpj4esm3ni5fs6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
